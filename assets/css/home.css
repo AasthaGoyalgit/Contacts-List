@@ -1,0 +1,41 @@
+body{
+   margin:0;
+   font-family:sans-serif;
+   /* background-color:light; */
+}
+
+#page-heading{
+    text-align:center;
+    margin-top:25px;
+    color:grey;
+}
+
+.center{
+    text-align:center;
+}
+
+aside{
+    display:inline-block;
+    /* margin-left: 20px; */
+    vertical-align: top;
+    width:10%;
+    margin-right: 0px;
+    margin-top: 5px;
+}
+#content{
+    display: inline-block;
+    margin-left: 5%;
+    width:80%;
+}
+
+.contact .delete-button a{
+    cursor: pointer;
+    color:cadetblue;
+    background-color: midnightblue;
+}
+
+#new-contact-form input{
+    border:0px;
+  border-bottom: 2px solid grey;
+
+}
